@@ -116,7 +116,7 @@ This disclosure may be cited in patent examinations globally.
 
 ## 8. Contact (Optional)
 For licensing discussions or technology transfer arrangements:  
-wagish@inbidz.org
+wagish@inbidz.com
 
 ---
 
