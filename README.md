@@ -10,9 +10,12 @@
 ## 1. Abstract
 Air Collar is a wearable front-neck purification device that filters ambient air and directs it upward to form a clean-air curtain in front of the user's breathing zone. The device reduces exposure to particulate pollution (PM2.5, PM10) and smoke while allowing natural, unobstructed breathing without any facial seal.
 
+### Intended Use
+This device is designed for adult and senior users.  
+It is not recommended for infants or toddlers.
 ---
 
-## 2. Field of the Invention
+## 2. Technical Field
 Personal air purification devices, wearable environmental health systems, consumer wellness electronics.
 
 ---
